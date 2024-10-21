@@ -1,1 +1,1 @@
-# CSC521-ImageRestoration
+# CSC521-Medical Image Restoration
